@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/digital-bussines-card/static/css/main.22ee330e.css",
+    "main.js": "/digital-bussines-card/static/js/main.2346c1a7.js",
+    "static/media/91456077___n.jpg": "/digital-bussines-card/static/media/91456077_2891026684279975_6849682142230740992_n.d02fd03f7150bc19679e.jpg",
+    "index.html": "/digital-bussines-card/index.html",
+    "main.22ee330e.css.map": "/digital-bussines-card/static/css/main.22ee330e.css.map",
+    "main.2346c1a7.js.map": "/digital-bussines-card/static/js/main.2346c1a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22ee330e.css",
+    "static/js/main.2346c1a7.js"
+  ]
+}
